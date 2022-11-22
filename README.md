@@ -2,8 +2,7 @@
 
 |_____________________________________________________|   |
 :-------------------------:|:-------------------------:
-
-| 365 Data Science - Introduction to Business Analytics  |  ![](https://github.com/RustamAliyevsHub/Certificates/blob/main/Certificate%20-%20365%20Data%20Science%20-%20Time%20Series%20Analysis%20with%20Python.png)
+| 365 Data Science - Time Series Analysis with Python  |  ![](https://github.com/RustamAliyevsHub/Certificates/blob/main/Certificate%20-%20365%20Data%20Science%20-%20Time%20Series%20Analysis%20with%20Python.png)
 | Tata Group - Data Visualisation: Empowering Business with Effective Insights (Virtual Experience Program Participant) |  ![](https://github.com/RustamAliyevsHub/Certificates/blob/main/Certificate%20-%20Tata%20Group%20-%20%20Data%20Visualisation.%20Empowering%20Business%20with%20Effective%20Insights.png)
 | 365 Data Science - Introduction to Business Analytics  |  ![](https://github.com/RustamAliyevsHub/Certificates/blob/main/Certificate%20-%20365%20Data%20Science%20-%20Introduction%20to%20Business%20Analytics.png)
 | DataCamp - Intermediate Python  |  ![](https://github.com/RustamAliyevsHub/Certificates/blob/main/Certificate%20-%20DataCamp%20-%20Intermediate%20Python-1.png)
