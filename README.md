@@ -2,7 +2,7 @@
 
 |_____________________________________________________|   |
 :-------------------------:|:-------------------------:
-| Corporate Finance Institute - Corporate Finance Fundamentals  |  ![](https://github.com/RustamAliyevsHub/Certificates/blob/main/Certificate%20-%20365%20Data%20Science%20-%20Time%20Series%20Analysis%20with%20Python.png)
+| Corporate Finance Institute - Corporate Finance Fundamentals  |  ![](https://github.com/RustamAliyevsHub/Certificates/blob/main/Certificate%20-%20CFI%20-%20Corporate%20Finance%20Fundamentals.png)
 | 365 Data Science - Time Series Analysis with Python  |  ![](https://github.com/RustamAliyevsHub/Certificates/blob/main/Certificate%20-%20365%20Data%20Science%20-%20Time%20Series%20Analysis%20with%20Python.png)
 | Accenture - Data Analytics and Visualization (Virtual Experience Program Participant) |  ![](https://github.com/RustamAliyevsHub/Certificates/blob/main/Certificate%20-%20Accenture%20-%20Data%20Analytics%20and%20Visualization.png) 
 | Tata Group - Data Visualisation: Empowering Business with Effective Insights (Virtual Experience Program Participant) |  ![](https://github.com/RustamAliyevsHub/Certificates/blob/main/Certificate%20-%20Tata%20Group%20-%20%20Data%20Visualisation.%20Empowering%20Business%20with%20Effective%20Insights.png)
